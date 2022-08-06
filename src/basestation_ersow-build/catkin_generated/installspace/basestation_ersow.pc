@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: basestation_ersow
+Description: Description of basestation_ersow
+Version: 0.1.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib -lersow_comm
+Requires: message_runtime roscpp std_msgs message_runtime std_msgs

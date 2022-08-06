@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon.png</file>
+        <file>images/black_cyan_1.png</file>
+        <file>images/black_cyan_2.png</file>
+        <file>images/black_cyan_3.png</file>
+        <file>images/black_cyan_4.png</file>
+        <file>images/black_magenta_1.png</file>
+        <file>images/black_magenta_2.png</file>
+        <file>images/black_magenta_3.png</file>
+        <file>images/black_magenta_4.png</file>
+        <file>images/obstacle.png</file>
+        <file>images/black_cyan.png</file>
+        <file>images/black_magenta.png</file>
+        <file>images/ersow_logo.png</file>
+        <file>images/images.qrc</file>
+        <file>images/ds-crystal_[id.allfont.net].ttf</file>
+        <file>images/led_RED.png</file>
+        <file>images/led_GREEN.png</file>
+        <file>images/led_BLUE.png</file>
+        <file>images/led_YELLOW.png</file>
+        <file>images/led_WHITE.png</file>
+        <file>images/led_ORANGE.png</file>
+        <file>images/button_close.png</file>
+        <file>images/ball_.png</file>
+        <file>images/Lapangan_ORSOW_Regional.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,2 @@
+set(basestation_ersow_MESSAGE_FILES "/home/agus/basestation_ersow/src/basestation_ersow/msg/data_agent0.msg;/home/agus/basestation_ersow/src/basestation_ersow/msg/strategyMsg.msg;/home/agus/basestation_ersow/src/basestation_ersow/msg/ifaceMsg.msg;/home/agus/basestation_ersow/src/basestation_ersow/msg/refereeMsg.msg;/home/agus/basestation_ersow/src/basestation_ersow/msg/dataAgentMsg.msg;/home/agus/basestation_ersow/src/basestation_ersow/msg/data_gui.msg")
+set(basestation_ersow_SERVICE_FILES "")

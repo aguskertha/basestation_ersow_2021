@@ -1,0 +1,37 @@
+int32 agent0_value
+
+uint16 agent0_state_okto
+uint16 agent0_mode_okto
+
+uint16 agent0_state_hendro
+uint16 agent0_mode_hendro
+
+uint16 agent0_state_jamil
+uint16 agent0_mode_jamil
+
+uint16 agent0_targetx_okto
+uint16 agent0_targety_okto
+uint16 agent0_targett_okto
+
+uint16 agent0_targetx_hendro
+uint16 agent0_targety_hendro
+uint16 agent0_targett_hendro
+
+uint16 agent0_targetx_jamil
+uint16 agent0_targety_jamil
+uint16 agent0_targett_jamil
+
+uint16 agent0_ballx
+uint16 agent0_bally
+uint16 agent0_ball_detected
+
+uint16 agent0_localization_flag
+uint16 agent0_localization_posx
+uint16 agent0_localization_posy
+uint16 agent0_localization_post
+
+uint8 agent0_pass
+uint8 agent0_condition
+
+string ipaddr
+int16 port

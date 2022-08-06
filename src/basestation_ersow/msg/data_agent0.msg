@@ -1,0 +1,41 @@
+int32 agent0_value
+
+int16 agent0_state_okto
+int16 agent0_mode_okto
+int16 agent0_posx_okto
+int16 agent0_posy_okto
+int16 agent0_pos0_okto
+int16 agent0_ballx_okto
+int16 agent0_bally_okto
+int16 agent0_lostPackets_okto
+
+int16 agent0_state_hendro
+int16 agent0_mode_hendro
+int16 agent0_posx_hendro
+int16 agent0_posy_hendro
+int16 agent0_pos0_hendro
+int16 agent0_ballx_hendro
+int16 agent0_bally_hendro
+int16 agent0_lostPackets_hendro
+
+int16 agent0_state_jamil
+int16 agent0_mode_jamil
+int16 agent0_posx_jamil
+int16 agent0_posy_jamil
+int16 agent0_pos0_jamil
+int16 agent0_ballx_jamil
+int16 agent0_bally_jamil
+int16 agent0_lostPackets_jamil
+
+int16 agent0_ballx
+int16 agent0_bally
+uint16 agent0_ball_detected
+
+
+uint16 agent0_localization_flag
+uint16 agent0_localization_posx
+uint16 agent0_localization_posy
+uint16 agent0_localization_post
+
+uint8 agent0_pass
+uint8 agent0_condition
